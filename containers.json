@@ -1,0 +1,9 @@
+[
+  {
+    "Description": "Windows 7 ova",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "migration987",
+        "S3Key": "Windows7.ova"
+    }
+}]
